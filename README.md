@@ -1,3 +1,3 @@
 # MathOpsPackage
 
-A description of this package.
+Swift Package Manager for Math operation for learing the SPM
